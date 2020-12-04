@@ -1,4 +1,4 @@
-package com.regadeveloper.dzikirsantuy;
+package com.addindev.dzikirsantuy;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.regadeveloper.dzikirsantuy", appContext.getPackageName());
+        assertEquals("com.addindev.dzikirsantuy", appContext.getPackageName());
     }
 }

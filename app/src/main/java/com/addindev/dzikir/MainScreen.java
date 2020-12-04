@@ -1,4 +1,4 @@
-package com.regadeveloper.dzikirsantuy;
+package com.addindev.dzikirsantuy;
 
 import android.content.Context;
 import android.content.Intent;
